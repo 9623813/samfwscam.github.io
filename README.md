@@ -1,0 +1,2 @@
+# samfwscam.github.io
+Malwarebytes reported that SamFwToolSetup (samfw) contains Trojan.dropper, meaning it may run and then install other malware on your computer. This is often associated with infostealers that steal browser data, cookies, saved passwords, and potentially wallet seed phrases. Do not download, install, or run anything from samfw.com
